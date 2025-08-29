@@ -1,2 +1,5 @@
 # diffusion_ldct
 This is the official repository of the paper "Solving Low-dose Computer Tomography inverse problem by learning the first-order score of the sparse sinogram samples' distribution."
+Congratulation! This paper has been accepted by The Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025. 
+The Pacific Rim International Conference on Artificial Intelligence (PRICAI) is an annual international event dedicated to exploring AI theories, technologies, and applications across areas of scientific, social, and economic importance for the Pacific Rim. Over the years, the conference has been hosted in key locations, including Nagoya (1990), Seoul (1992), Beijing (1994), Cairns (1996), Singapore (1998), Melbourne (2000), Tokyo (2002), Auckland (2004), Guilin (2006), Hanoi (2008), Daegu (2010), Kuching (2012), Gold Coast (2014), Phuket (2016), Nanjing (2018), Fiji (2019), Yokohama (2020, online), Hanoi (2021, online), Shanghai (2022, hybrid), Jakarta (2023, hybrid), and Kyoto (2024).
+Moreover, PRICAI is also rated for the CCF-C Conference in China.
